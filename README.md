@@ -1,9 +1,9 @@
 
 <br>
 
-|     Algorithm&nbsp;      |        Operating System         |    Network&nbsp;     |Object-Oriented Programming|    &nbsp;Database&nbsp;&nbsp;     |&nbsp;Java&nbsp;&nbsp;|    System Design     | &nbsp;&nbsp;Tools&nbsp;&nbsp; |         Coding Practice          | 
-|:------------------------:|:-------------------------------:|:--------------------:| :----: |:---------------------------------:| :----: |:--------------------:|:-----------------------------:|:--------------------------------:| 
-| [:pencil2:](#pencil2-Algorithm) | [:computer:](#Operating-System) | [:cloud:](#cloud-网络) | [:art:](#art-面向对象) | [:floppy_disk:](#floppy_disk-数据库) |[:coffee:](#coffee-java)| [:bulb:](#bulb-系统设计) |    [:wrench:](#wrench-工具)     | [:watermelon:](#watermelon-编码实践) |
+|     Algorithm&nbsp;      |        Operating System         |       Network&nbsp;       | Object-Oriented Programming  |       &nbsp;Database&nbsp;&nbsp;       |&nbsp;Java&nbsp;&nbsp;|        System Design         | &nbsp;&nbsp;Tools&nbsp;&nbsp; |               Coding Practice               | 
+|:------------------------:|:-------------------------------:|:-------------------------:|:----------------------------:|:--------------------------------------:| :----: |:----------------------------:|:-----------------------------:|:-------------------------------------------:| 
+| [:pencil2:](#pencil2-Algorithm) | [:computer:](#Operating-System) | [:cloud:](#cloud-Network) | [:art:](#art-ObjectOriented) | [:floppy_disk:](#floppy_disk-Database) |[:coffee:](#coffee-java)| [:bulb:](#bulb-SystemDesign) |   [:wrench:](#wrench-Tools)   | [:watermelon:](#watermelon-Coding Practice) |
 
 <br>
 
@@ -21,13 +21,13 @@
 - [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/计算机操作系统%20-%20目录.md)
 - [Linux](https://github.com/CyC2018/CS-Notes/blob/master/notes/Linux.md)
 
-## :cloud: 网络
+## :cloud: Network
 
 - [计算机网络](https://github.com/CyC2018/CS-Notes/blob/master/notes/计算机网络%20-%20目录.md)
 - [HTTP](https://github.com/CyC2018/CS-Notes/blob/master/notes/HTTP.md)
 - [Socket](https://github.com/CyC2018/CS-Notes/blob/master/notes/Socket.md)
 
-## :floppy_disk: 数据库
+## :floppy_disk: Database
 
 - [数据库系统原理](https://github.com/CyC2018/CS-Notes/blob/master/notes/数据库系统原理.md)
 - [SQL 语法](https://github.com/CyC2018/CS-Notes/blob/master/notes/SQL%20语法.md)
@@ -43,7 +43,7 @@
 - [Java 虚拟机](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20虚拟机.md)
 - [Java I/O](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20IO.md)
 
-## :bulb: 系统设计
+## :bulb: SystemDesign
 
 - [系统设计基础](https://github.com/CyC2018/CS-Notes/blob/master/notes/系统设计基础.md)
 - [分布式](https://github.com/CyC2018/CS-Notes/blob/master/notes/分布式.md)
@@ -52,19 +52,19 @@
 - [缓存](https://github.com/CyC2018/CS-Notes/blob/master/notes/缓存.md)
 - [消息队列](https://github.com/CyC2018/CS-Notes/blob/master/notes/消息队列.md)
 
-## :art: 面向对象
+## :art: ObjectOriented
 
 - [面向对象思想](https://github.com/CyC2018/CS-Notes/blob/master/notes/面向对象思想.md)
 - [设计模式](https://github.com/CyC2018/CS-Notes/blob/master/notes/设计模式%20-%20目录.md)
 
-## :wrench: 工具
+## :wrench: Tools
 
 - [Git](https://github.com/CyC2018/CS-Notes/blob/master/notes/Git.md)
 - [Docker](https://github.com/CyC2018/CS-Notes/blob/master/notes/Docker.md)
 - [构建工具](https://github.com/CyC2018/CS-Notes/blob/master/notes/构建工具.md)
 - [正则表达式](https://github.com/CyC2018/CS-Notes/blob/master/notes/正则表达式.md)
 
-## :watermelon: 编码实践
+## :watermelon: CodingPractice
 
 - [代码可读性](https://github.com/CyC2018/CS-Notes/blob/master/notes/代码可读性.md)
 - [代码风格规范](https://github.com/CyC2018/CS-Notes/blob/master/notes/代码风格规范.md)
