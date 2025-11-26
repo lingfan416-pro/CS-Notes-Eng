@@ -150,7 +150,7 @@ Each queue has a different priority, with the top queue having the highest prior
 
 This scheduling algorithm can be viewed as a combination of time-slice round-robin scheduling and priority scheduling.
 
-![img.png](multilevelqueue.png)
+![img.png](../../images/multilevelqueue.png)
 ### 3. Real-time System
 
 Real-time systems require a response to a request within a defined timeframe.
